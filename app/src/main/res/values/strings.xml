@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GADS Leaderboard</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="submit">Submit</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="yes">Yes</string>
+    <string name="action_bar_logo">Action Bar logo</string>
+    <string name="project_submission_txt">Project Submission</string>
+    <string name="first_name_txt">First Name</string>
+    <string name="last_name_txt">Last Name</string>
+    <string name="email_address_txt">Email Address</string>
+    <string name="github_link_txt">Project On GITHUB (link).</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string-array name="tab_titles">
+        <item>Learning Leaders</item>
+        <item>Skill IQ Leaders</item>
+    </string-array>
+</resources>
